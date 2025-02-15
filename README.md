@@ -58,7 +58,7 @@ Start the Laravel development server:
 
 php artisan serve
 
-By default, the application will be available at http://127.0.0.1:8000.
+By default, the application will be available at **http://127.0.0.1:8000.**
 
 Additional Steps
 #To enable storage linking for images:
