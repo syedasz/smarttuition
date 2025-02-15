@@ -68,3 +68,7 @@ php artisan storage:link
 php artisan db:seed
 
 Now your Laravel application is set up and ready to use!
+
+**Demo User**
+username : tutor@example.com
+password : password
